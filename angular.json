@@ -63,6 +63,7 @@
               "vendorChunk": true,
               "extractLicenses": false,
               "sourceMap": true,
+              
               "namedChunks": true
             }
           },
@@ -101,7 +102,8 @@
             "styles": [
               "src/styles.scss"
             ],
-            "scripts": []
+            "scripts": [
+            ]
           }
         }
       }
